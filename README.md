@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jesus Fontecha
 ![](https://jfontecha.github.io/images/banner_profile_large.png)
 
-Assistant profesor at <a href="https://www.uclm.es/?sc_lang=en">UCLM</a>. I spend my free time doing sport and improving my coding skills. <p>IoT and web developer enthusiast.</p>
+I'm assistant profesor at <a href="https://www.uclm.es/?sc_lang=en">UCLM</a>. I spend my free time doing sport and improving my coding skills. <p>IoT and web developer enthusiast.</p>
 
 Skills: NODE JS / REACT / MONGOOSE OS / JS / HTML / CSS / C# / Java
 
